@@ -1,0 +1,5 @@
+Инструкция для запуска:
+
+1. pip install psycopg2
+2. Запустите main.py:
+   python main.py
