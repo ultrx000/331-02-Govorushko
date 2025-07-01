@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rfkZIiNB+F8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\project 09\\module_03_kurilov\\PartnerManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.6\\microsoft.win32.systemevents.9.0.6.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\system.drawing.common\\9.0.6\\system.drawing.common.9.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
